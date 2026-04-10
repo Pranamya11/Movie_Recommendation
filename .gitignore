@@ -1,0 +1,7 @@
+similarity.pkl
+movies.pkl
+*.pkl
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+__pycache__/
+.env
